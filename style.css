@@ -337,6 +337,7 @@ h4 {
     margin: 30px;
     display: flex;
     align-items: center;
+    flex-flow: row wrap;
 }
 
 
